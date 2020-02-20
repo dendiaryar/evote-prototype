@@ -1,0 +1,63 @@
+body {
+
+  background-color: rgb(17, 138, 101);
+  font-family: 'Gudea', sans-serif;
+  color: rgb(178, 235, 218);
+}
+
+table {
+  width: 80%;
+  margin: 6%;
+  text-align: center;
+
+
+}
+
+thead,
+tr,
+td {
+  height: 50px;
+  border: none;
+}
+
+#judul {
+  margin-top: 2%;
+  margin-bottom: 50px;
+  text-align: center;
+  color: rgb(178, 235, 218);
+  opacity: 0.9;
+  text-shadow: rgb(6, 54, 40) 2px 2px;
+  font-size: 50px;
+  word-spacing: 5px;
+}
+
+
+.btn {
+  margin: 10px;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  background-color: rgba(58, 190, 151, 0.747);
+
+  border: none;
+  border-radius: 2px;
+  width: 100px;
+}
+
+#footer {
+
+  bottom: 0;
+  width: 100%;
+  margin-top: 10%;
+  margin-bottom: 0;
+  padding: 2%;
+  /* Set the fixed height of the footer here */
+
+  background: rgb(17, 138, 101);
+  /* image to overlay */
+
+}
+
+.content {
+  width: 100vw;
+  margin-top: 0;
+}
