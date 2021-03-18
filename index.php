@@ -1,3 +1,3 @@
 <?php 
 
-header('location : landing.php');
+header('location: landing.php');
